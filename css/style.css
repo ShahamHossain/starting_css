@@ -1,0 +1,53 @@
+h3{
+	border: 5px solid rebeccapurple;
+	background-color: orange;
+	font-size: 50px;
+}
+
+p{
+	border: 5px dotted dodgerblue;
+	background-color: yellow;
+	font-size: 40px;
+}
+
+.text{
+	color: darkgreen;
+	background-color: black;
+	font-size: 40px;
+}
+
+#p{
+	border: 5px dashed red;
+	background-color: blueviolet;
+	font-size: 40px;
+}
+
+.box1{
+	width: 200px;
+	height: 200px;
+	background-color: skyblue;
+}
+
+.box2{
+	width: 160pt;
+	height: 200px;
+	background-color: greenyellow;	
+}
+
+.box3{
+	width: 15em;
+	height: 200px;
+	background-color: red;
+}
+
+.box4{
+	width: 15rem;
+	height: 200px;
+	background-color: yellow;
+}
+
+.box5{
+	width: 50%;
+	height: 200px;
+	background-color: darkgreen;
+}
